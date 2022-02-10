@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.158eb0af.chunk.css",
-    "main.js": "/static/js/main.a90ab600.chunk.js",
-    "main.js.map": "/static/js/main.a90ab600.chunk.js.map",
+    "main.js": "/static/js/main.e5a1ebc7.chunk.js",
+    "main.js.map": "/static/js/main.e5a1ebc7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58bb364f.js",
     "runtime-main.js.map": "/static/js/runtime-main.58bb364f.js.map",
     "static/css/2.e7e429ac.chunk.css": "/static/css/2.e7e429ac.chunk.css",
@@ -348,8 +348,10 @@
     "static/media/thanksgiving-banner.02fe078d.jpg": "/static/media/thanksgiving-banner.02fe078d.jpg",
     "static/media/tile.25f500f4.svg": "/static/media/tile.25f500f4.svg",
     "static/media/tile.d2fec8a8.svg": "/static/media/tile.d2fec8a8.svg",
+    "static/media/title-block-chromium.a5003ad7.svg": "/static/media/title-block-chromium.a5003ad7.svg",
     "static/media/title-block.32cc2b2c.png": "/static/media/title-block.32cc2b2c.png",
     "static/media/title-block.88d6de18.svg": "/static/media/title-block.88d6de18.svg",
+    "static/media/title-block.da770584.svg": "/static/media/title-block.da770584.svg",
     "static/media/ui-flipped.fa5289ab.png": "/static/media/ui-flipped.fa5289ab.png",
     "static/media/use-primary-color-do.7367176e.png": "/static/media/use-primary-color-do.7367176e.png",
     "static/media/use-primary-color-dont.1f19ac11.png": "/static/media/use-primary-color-dont.1f19ac11.png",
@@ -377,6 +379,6 @@
     "static/css/2.e7e429ac.chunk.css",
     "static/js/2.d7afcc18.chunk.js",
     "static/css/main.158eb0af.chunk.css",
-    "static/js/main.a90ab600.chunk.js"
+    "static/js/main.e5a1ebc7.chunk.js"
   ]
 }
