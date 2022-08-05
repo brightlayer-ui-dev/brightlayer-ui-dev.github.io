@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.158eb0af.chunk.css",
-    "main.js": "/static/js/main.b7cd98cf.chunk.js",
-    "main.js.map": "/static/js/main.b7cd98cf.chunk.js.map",
+    "main.js": "/static/js/main.ceaedc8a.chunk.js",
+    "main.js.map": "/static/js/main.ceaedc8a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58bb364f.js",
     "runtime-main.js.map": "/static/js/runtime-main.58bb364f.js.map",
     "static/css/2.e7e429ac.chunk.css": "/static/css/2.e7e429ac.chunk.css",
-    "static/js/2.87b2b77c.chunk.js": "/static/js/2.87b2b77c.chunk.js",
-    "static/js/2.87b2b77c.chunk.js.map": "/static/js/2.87b2b77c.chunk.js.map",
+    "static/js/2.ef2b8d7e.chunk.js": "/static/js/2.ef2b8d7e.chunk.js",
+    "static/js/2.ef2b8d7e.chunk.js.map": "/static/js/2.ef2b8d7e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e7e429ac.chunk.css.map": "/static/css/2.e7e429ac.chunk.css.map",
     "static/css/main.158eb0af.chunk.css.map": "/static/css/main.158eb0af.chunk.css.map",
-    "static/js/2.87b2b77c.chunk.js.LICENSE.txt": "/static/js/2.87b2b77c.chunk.js.LICENSE.txt",
+    "static/js/2.ef2b8d7e.chunk.js.LICENSE.txt": "/static/js/2.ef2b8d7e.chunk.js.LICENSE.txt",
+    "static/media/IconSketch.a193e60d.pdf": "/static/media/IconSketch.a193e60d.pdf",
     "static/media/accept-eula.818e65fb.png": "/static/media/accept-eula.818e65fb.png",
     "static/media/account-details.842ae16a.png": "/static/media/account-details.842ae16a.png",
     "static/media/account-menu-banner.2c90563d.png": "/static/media/account-menu-banner.2c90563d.png",
@@ -98,7 +99,7 @@
     "static/media/desktop-user-details.59dcf157.png": "/static/media/desktop-user-details.59dcf157.png",
     "static/media/develop.11642a00.jpg": "/static/media/develop.11642a00.jpg",
     "static/media/device-icon-1.a110f054.png": "/static/media/device-icon-1.a110f054.png",
-    "static/media/device-icon-2.7e249066.png": "/static/media/device-icon-2.7e249066.png",
+    "static/media/device-icon-2.8bab0876.png": "/static/media/device-icon-2.8bab0876.png",
     "static/media/dialog-task.3dd886f3.png": "/static/media/dialog-task.3dd886f3.png",
     "static/media/dismiss-keyboard-error-autoscroll.469ea90b.gif": "/static/media/dismiss-keyboard-error-autoscroll.469ea90b.gif",
     "static/media/dismiss-keyboard-error-text.78323ebe.gif": "/static/media/dismiss-keyboard-error-text.78323ebe.gif",
@@ -170,6 +171,8 @@
     "static/media/icon-button-regular.81b1cbe6.svg": "/static/media/icon-button-regular.81b1cbe6.svg",
     "static/media/icon-guidelines.038ab201.svg": "/static/media/icon-guidelines.038ab201.svg",
     "static/media/icon-variation-2.fd99f537.png": "/static/media/icon-variation-2.fd99f537.png",
+    "static/media/icon-variation-nav-item-1.b12b418e.png": "/static/media/icon-variation-nav-item-1.b12b418e.png",
+    "static/media/icon-variation-nav-item-2.2c8d8b42.png": "/static/media/icon-variation-nav-item-2.2c8d8b42.png",
     "static/media/icon-variation.3a00eaa5.png": "/static/media/icon-variation.3a00eaa5.png",
     "static/media/icons.00c18ad2.png": "/static/media/icons.00c18ad2.png",
     "static/media/illustration-background.375ffa3d.png": "/static/media/illustration-background.375ffa3d.png",
@@ -409,8 +412,8 @@
   "entrypoints": [
     "static/js/runtime-main.58bb364f.js",
     "static/css/2.e7e429ac.chunk.css",
-    "static/js/2.87b2b77c.chunk.js",
+    "static/js/2.ef2b8d7e.chunk.js",
     "static/css/main.158eb0af.chunk.css",
-    "static/js/main.b7cd98cf.chunk.js"
+    "static/js/main.ceaedc8a.chunk.js"
   ]
 }
