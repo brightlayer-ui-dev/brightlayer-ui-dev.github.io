@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5288ab68.chunk.css",
-    "main.js": "/static/js/main.c11c9987.chunk.js",
-    "main.js.map": "/static/js/main.c11c9987.chunk.js.map",
+    "main.js": "/static/js/main.3aea5074.chunk.js",
+    "main.js.map": "/static/js/main.3aea5074.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58bb364f.js",
     "runtime-main.js.map": "/static/js/runtime-main.58bb364f.js.map",
     "static/css/2.e7e429ac.chunk.css": "/static/css/2.e7e429ac.chunk.css",
@@ -102,6 +102,12 @@
     "static/media/develop.11642a00.jpg": "/static/media/develop.11642a00.jpg",
     "static/media/device-icon-1.a110f054.png": "/static/media/device-icon-1.a110f054.png",
     "static/media/device-icon-2.8bab0876.png": "/static/media/device-icon-2.8bab0876.png",
+    "static/media/dialog-box-1.d0a264b5.svg": "/static/media/dialog-box-1.d0a264b5.svg",
+    "static/media/dialog-box-2.1ecadaec.svg": "/static/media/dialog-box-2.1ecadaec.svg",
+    "static/media/dialog-box-3.f206c6e1.svg": "/static/media/dialog-box-3.f206c6e1.svg",
+    "static/media/dialog-box-4.53df901c.svg": "/static/media/dialog-box-4.53df901c.svg",
+    "static/media/dialog-box-5.2cd892f9.svg": "/static/media/dialog-box-5.2cd892f9.svg",
+    "static/media/dialog-box-6.1c2b8560.svg": "/static/media/dialog-box-6.1c2b8560.svg",
     "static/media/dialog-task.3dd886f3.png": "/static/media/dialog-task.3dd886f3.png",
     "static/media/dismiss-keyboard-error-autoscroll.469ea90b.gif": "/static/media/dismiss-keyboard-error-autoscroll.469ea90b.gif",
     "static/media/dismiss-keyboard-error-text.78323ebe.gif": "/static/media/dismiss-keyboard-error-text.78323ebe.gif",
@@ -428,6 +434,6 @@
     "static/css/2.e7e429ac.chunk.css",
     "static/js/2.ef2b8d7e.chunk.js",
     "static/css/main.5288ab68.chunk.css",
-    "static/js/main.c11c9987.chunk.js"
+    "static/js/main.3aea5074.chunk.js"
   ]
 }
