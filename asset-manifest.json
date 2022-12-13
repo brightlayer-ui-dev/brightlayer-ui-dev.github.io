@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5288ab68.chunk.css",
-    "main.js": "/static/js/main.a8eaefbd.chunk.js",
-    "main.js.map": "/static/js/main.a8eaefbd.chunk.js.map",
+    "main.js": "/static/js/main.8592f78d.chunk.js",
+    "main.js.map": "/static/js/main.8592f78d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58bb364f.js",
     "runtime-main.js.map": "/static/js/runtime-main.58bb364f.js.map",
     "static/css/2.e7e429ac.chunk.css": "/static/css/2.e7e429ac.chunk.css",
@@ -169,6 +169,8 @@
     "static/media/expanded-row-too-complicated.afee0856.png": "/static/media/expanded-row-too-complicated.afee0856.png",
     "static/media/expanded-row.38aa80a0.gif": "/static/media/expanded-row.38aa80a0.gif",
     "static/media/expired.fbe613af.png": "/static/media/expired.fbe613af.png",
+    "static/media/explain-architecture.6bfafedd.png": "/static/media/explain-architecture.6bfafedd.png",
+    "static/media/explain-journey.0a36397d.png": "/static/media/explain-journey.0a36397d.png",
     "static/media/fab-desktop.adc200c5.png": "/static/media/fab-desktop.adc200c5.png",
     "static/media/fab-empty-state.d0e5d8fc.png": "/static/media/fab-empty-state.d0e5d8fc.png",
     "static/media/fab-mobile-1.67074d26.png": "/static/media/fab-mobile-1.67074d26.png",
@@ -355,6 +357,8 @@
     "static/media/responsive-design.9f8ae9b4.png": "/static/media/responsive-design.9f8ae9b4.png",
     "static/media/responsive-hmi.7a51ce9e.png": "/static/media/responsive-hmi.7a51ce9e.png",
     "static/media/responsive-pushed-up-footer.66ff7479.gif": "/static/media/responsive-pushed-up-footer.66ff7479.gif",
+    "static/media/responsive-stacked-desktop.c027333e.png": "/static/media/responsive-stacked-desktop.c027333e.png",
+    "static/media/responsive-stacked-mobile.5184a2cc.png": "/static/media/responsive-stacked-mobile.5184a2cc.png",
     "static/media/right.fae48b37.svg": "/static/media/right.fae48b37.svg",
     "static/media/safe-area-1.a4f1e170.png": "/static/media/safe-area-1.a4f1e170.png",
     "static/media/safe-area-2.9d0952ae.png": "/static/media/safe-area-2.9d0952ae.png",
@@ -388,10 +392,13 @@
     "static/media/spec-regular-1.e480673e.svg": "/static/media/spec-regular-1.e480673e.svg",
     "static/media/spec-regular-2.5a86d544.svg": "/static/media/spec-regular-2.5a86d544.svg",
     "static/media/spec-regular-3.4c69a08f.svg": "/static/media/spec-regular-3.4c69a08f.svg",
+    "static/media/spec-regular-spacing-1.c46e973b.svg": "/static/media/spec-regular-spacing-1.c46e973b.svg",
+    "static/media/spec-regular-spacing-2.a325b386.svg": "/static/media/spec-regular-spacing-2.a325b386.svg",
     "static/media/spec-size.9dd96ea0.png": "/static/media/spec-size.9dd96ea0.png",
     "static/media/spec-typography-desktop.1753b5ae.png": "/static/media/spec-typography-desktop.1753b5ae.png",
     "static/media/spec-typography-mobile.c57be002.png": "/static/media/spec-typography-mobile.c57be002.png",
     "static/media/spec-typography.03adfaa9.png": "/static/media/spec-typography.03adfaa9.png",
+    "static/media/spec-typography.052a2b10.svg": "/static/media/spec-typography.052a2b10.svg",
     "static/media/spec-typography.e89cede0.png": "/static/media/spec-typography.e89cede0.png",
     "static/media/specs-1.2da39ff0.png": "/static/media/specs-1.2da39ff0.png",
     "static/media/specs-1.4f43f1f0.png": "/static/media/specs-1.4f43f1f0.png",
@@ -495,6 +502,6 @@
     "static/css/2.e7e429ac.chunk.css",
     "static/js/2.1283da3b.chunk.js",
     "static/css/main.5288ab68.chunk.css",
-    "static/js/main.a8eaefbd.chunk.js"
+    "static/js/main.8592f78d.chunk.js"
   ]
 }
