@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b8f193f3.css",
-    "main.js": "/static/js/main.93f7a72a.js",
+    "main.js": "/static/js/main.5072f72d.js",
     "static/js/529.bddedf68.chunk.js": "/static/js/529.bddedf68.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -22,7 +22,7 @@
     "static/media/progress-bar.gif": "/static/media/progress-bar.df2dae76f0c89915a689.gif",
     "static/media/home-page-preview.gif": "/static/media/home-page-preview.fd6a9d32c51feab6c828.gif",
     "static/media/sortable-list.gif": "/static/media/sortable-list.5d37356d83625ac560de.gif",
-    "static/media/international-women-s-day-banner.svg": "/static/media/international-women-s-day-banner.c31821f9cfb77b4e080c2a1f37b51f16.svg",
+    "static/media/international-women-s-day-banner.svg": "/static/media/international-women-s-day-banner.ecf96e973863dc05096bc32377914e3f.svg",
     "static/media/persistent-drawer-pitfall.gif": "/static/media/persistent-drawer-pitfall.653c21057f12f8c4da53.gif",
     "static/media/christmas-eve.png": "/static/media/christmas-eve.4077e3aaee53abd9419b.png",
     "static/media/hover-actions.gif": "/static/media/hover-actions.8a9dc3645ef7ce922816.gif",
@@ -593,11 +593,11 @@
     "static/media/warning-two-color-light.svg": "/static/media/warning-two-color-light.6c44bafbf67b83fed176a8ed1d26c939.svg",
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
     "main.b8f193f3.css.map": "/static/css/main.b8f193f3.css.map",
-    "main.93f7a72a.js.map": "/static/js/main.93f7a72a.js.map",
+    "main.5072f72d.js.map": "/static/js/main.5072f72d.js.map",
     "529.bddedf68.chunk.js.map": "/static/js/529.bddedf68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8f193f3.css",
-    "static/js/main.93f7a72a.js"
+    "static/js/main.5072f72d.js"
   ]
 }
