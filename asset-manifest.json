@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8f193f3.css",
-    "main.js": "/static/js/main.5072f72d.js",
+    "main.css": "/static/css/main.72883b89.css",
+    "main.js": "/static/js/main.8285efab.js",
     "static/js/529.bddedf68.chunk.js": "/static/js/529.bddedf68.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -592,12 +592,12 @@
     "static/media/layout-banner.svg": "/static/media/layout-banner.2edeef297dc715f1325da0b4d428ffaf.svg",
     "static/media/warning-two-color-light.svg": "/static/media/warning-two-color-light.6c44bafbf67b83fed176a8ed1d26c939.svg",
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
-    "main.b8f193f3.css.map": "/static/css/main.b8f193f3.css.map",
-    "main.5072f72d.js.map": "/static/js/main.5072f72d.js.map",
+    "main.72883b89.css.map": "/static/css/main.72883b89.css.map",
+    "main.8285efab.js.map": "/static/js/main.8285efab.js.map",
     "529.bddedf68.chunk.js.map": "/static/js/529.bddedf68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8f193f3.css",
-    "static/js/main.5072f72d.js"
+    "static/css/main.72883b89.css",
+    "static/js/main.8285efab.js"
   ]
 }
