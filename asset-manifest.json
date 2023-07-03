@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.72883b89.css",
-    "main.js": "/static/js/main.359c2a93.js",
+    "main.js": "/static/js/main.33d2c3b1.js",
     "static/js/529.bddedf68.chunk.js": "/static/js/529.bddedf68.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -149,6 +149,7 @@
     "static/media/forgot-password-password.png": "/static/media/forgot-password-password.5ccd999a11eb89533dcd.png",
     "static/media/user-menu.png": "/static/media/user-menu.fc86fc2522647c6c894c.png",
     "static/media/info-list-item.png": "/static/media/info-list-item.58978908cb10b99bec32.png",
+    "static/media/by-non-designers.webp": "/static/media/by-non-designers.4e66a309913b7239bc0a.webp",
     "static/media/safe-area-2.png": "/static/media/safe-area-2.9d0952ae1b51389800a5.png",
     "static/media/image-drawer-regular.png": "/static/media/image-drawer-regular.0256be182593f05b4371.png",
     "static/media/safe-area-1.png": "/static/media/safe-area-1.a4f1e170577b54812e4c.png",
@@ -248,6 +249,7 @@
     "static/media/language-options.png": "/static/media/language-options.a93b8b3b7ef7206be84a.png",
     "static/media/spec-typography-mobile.png": "/static/media/spec-typography-mobile.c57be00266efd6a97477.png",
     "static/media/illustration-industrial.png": "/static/media/illustration-industrial.43d0976c7ed34e25d86e.png",
+    "static/media/by-designers.webp": "/static/media/by-designers.dd64e4e3c49a73503d1e.webp",
     "static/media/ipm.png": "/static/media/ipm.e28dbb101406dd707334.png",
     "static/media/dialog-box-5.svg": "/static/media/dialog-box-5.2cd892f9fc8ca73114ce6feca7be2bf4.svg",
     "static/media/diwali-appbar-tile.png": "/static/media/diwali-appbar-tile.c7d91ec730ef69e1a422.png",
@@ -624,11 +626,11 @@
     "static/media/warning-two-color-light.svg": "/static/media/warning-two-color-light.6c44bafbf67b83fed176a8ed1d26c939.svg",
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
     "main.72883b89.css.map": "/static/css/main.72883b89.css.map",
-    "main.359c2a93.js.map": "/static/js/main.359c2a93.js.map",
+    "main.33d2c3b1.js.map": "/static/js/main.33d2c3b1.js.map",
     "529.bddedf68.chunk.js.map": "/static/js/529.bddedf68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72883b89.css",
-    "static/js/main.359c2a93.js"
+    "static/js/main.33d2c3b1.js"
   ]
 }
