@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.72883b89.css",
-    "main.js": "/static/js/main.ab781864.js",
+    "main.js": "/static/js/main.1d2b92df.js",
     "static/js/529.bddedf68.chunk.js": "/static/js/529.bddedf68.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -320,6 +320,7 @@
     "static/media/icon-align-3.png": "/static/media/icon-align-3.1f6f58ce1accb296778c.png",
     "static/media/page-body-table.png": "/static/media/page-body-table.c74c007e577da6ed6c4d.png",
     "static/media/button-width.png": "/static/media/button-width.56a80019c182fd7ba085.png",
+    "static/media/green-motion-ev-charger.jpg": "/static/media/green-motion-ev-charger.dfdb2197fc9ea497958e.jpg",
     "static/media/educational-2.png": "/static/media/educational-2.c49421973e59229c2ada.png",
     "static/media/cw-ccw.png": "/static/media/cw-ccw.edf0e3f845237fa2365b.png",
     "static/media/component-search.png": "/static/media/component-search.bb6d687e897d628bf9a0.png",
@@ -628,11 +629,11 @@
     "static/media/warning-two-color-light.svg": "/static/media/warning-two-color-light.6c44bafbf67b83fed176a8ed1d26c939.svg",
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
     "main.72883b89.css.map": "/static/css/main.72883b89.css.map",
-    "main.ab781864.js.map": "/static/js/main.ab781864.js.map",
+    "main.1d2b92df.js.map": "/static/js/main.1d2b92df.js.map",
     "529.bddedf68.chunk.js.map": "/static/js/529.bddedf68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72883b89.css",
-    "static/js/main.ab781864.js"
+    "static/js/main.1d2b92df.js"
   ]
 }
