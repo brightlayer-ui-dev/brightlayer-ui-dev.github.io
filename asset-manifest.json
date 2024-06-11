@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7bb3ad2d.css",
-    "main.js": "/static/js/main.bbbef780.js",
+    "main.js": "/static/js/main.f52fcaae.js",
     "static/js/390.a834b253.chunk.js": "/static/js/390.a834b253.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -115,6 +115,7 @@
     "static/media/navigation-temporary.png": "/static/media/navigation-temporary.b71fc32e56a96f57d2bd.png",
     "static/media/style-choice.png": "/static/media/style-choice.c9963995216943429ea1.png",
     "static/media/login.png": "/static/media/login.49d4ef07dd85244ea1c1.png",
+    "static/media/shubham-vishwakarma.jpeg": "/static/media/shubham-vishwakarma.78447e6edabb6b9a5e54.jpeg",
     "static/media/create-password.png": "/static/media/create-password.807684ec3d6646332fbe.png",
     "static/media/user-menu-contents.png": "/static/media/user-menu-contents.bd504ccb0382834e47ae.png",
     "static/media/action-button-in-panel-header.png": "/static/media/action-button-in-panel-header.3bac59ac1b4a6adb9d0b.png",
@@ -649,11 +650,11 @@
     "static/media/warning-two-color-light.svg": "/static/media/warning-two-color-light.6c44bafbf67b83fed176a8ed1d26c939.svg",
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
     "main.7bb3ad2d.css.map": "/static/css/main.7bb3ad2d.css.map",
-    "main.bbbef780.js.map": "/static/js/main.bbbef780.js.map",
+    "main.f52fcaae.js.map": "/static/js/main.f52fcaae.js.map",
     "390.a834b253.chunk.js.map": "/static/js/390.a834b253.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bb3ad2d.css",
-    "static/js/main.bbbef780.js"
+    "static/js/main.f52fcaae.js"
   ]
 }
