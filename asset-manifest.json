@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02d51429.css",
-    "main.js": "/static/js/main.03d9c54b.js",
+    "main.js": "/static/js/main.69d86b19.js",
     "static/js/415.3c95869e.chunk.js": "/static/js/415.3c95869e.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -69,6 +69,7 @@
     "static/media/notification-buckets-2.png": "/static/media/notification-buckets-2.c335fedcc53b88134e4e.png",
     "static/media/reset-password-desktop.png": "/static/media/reset-password-desktop.a63f56d302514c1d6e90.png",
     "static/media/image-drawer-profile.png": "/static/media/image-drawer-profile.3a0d1ededc476378b360.png",
+    "static/media/harshal-kapure.jpg": "/static/media/harshal-kapure.53b8b266da9bf3db6911.jpg",
     "static/media/registration-desktop.png": "/static/media/registration-desktop.ef99a5719cc66a0b81cf.png",
     "static/media/next-button-usage.png": "/static/media/next-button-usage.66e41858a640904570f3.png",
     "static/media/illustration-background.png": "/static/media/illustration-background.375ffa3d9dc2f54fa288.png",
@@ -699,11 +700,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.02d51429.css.map": "/static/css/main.02d51429.css.map",
-    "main.03d9c54b.js.map": "/static/js/main.03d9c54b.js.map",
+    "main.69d86b19.js.map": "/static/js/main.69d86b19.js.map",
     "415.3c95869e.chunk.js.map": "/static/js/415.3c95869e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02d51429.css",
-    "static/js/main.03d9c54b.js"
+    "static/js/main.69d86b19.js"
   ]
 }
