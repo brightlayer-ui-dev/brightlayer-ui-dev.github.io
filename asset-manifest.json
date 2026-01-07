@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5d04a6a.css",
-    "main.js": "/static/js/main.1ff68cf8.js",
+    "main.js": "/static/js/main.9df786ab.js",
     "static/js/415.2f2f4431.chunk.js": "/static/js/415.2f2f4431.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -250,6 +250,7 @@
     "static/media/by-designers.webp": "/static/media/by-designers.dd64e4e3c49a73503d1e.webp",
     "static/media/ipm.png": "/static/media/ipm.e28dbb101406dd707334.png",
     "static/media/dialog-box-5.svg": "/static/media/dialog-box-5.2cd892f9fc8ca73114ce6feca7be2bf4.svg",
+    "static/media/diwali-appbar-tile.png": "/static/media/diwali-appbar-tile.c7d91ec730ef69e1a422.png",
     "static/media/navigation-rail.png": "/static/media/navigation-rail.dd3c2fbad5bff2b9575e.png",
     "static/media/desktop-trend-legend.png": "/static/media/desktop-trend-legend.4a7aedcd8d932ae35207.png",
     "static/media/spec-1.png": "/static/media/spec-1.3f933c727413413f4d99.png",
@@ -809,11 +810,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.c5d04a6a.css.map": "/static/css/main.c5d04a6a.css.map",
-    "main.1ff68cf8.js.map": "/static/js/main.1ff68cf8.js.map",
+    "main.9df786ab.js.map": "/static/js/main.9df786ab.js.map",
     "415.2f2f4431.chunk.js.map": "/static/js/415.2f2f4431.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d04a6a.css",
-    "static/js/main.1ff68cf8.js"
+    "static/js/main.9df786ab.js"
   ]
 }
