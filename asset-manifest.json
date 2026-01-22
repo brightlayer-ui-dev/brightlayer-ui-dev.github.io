@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5d04a6a.css",
-    "main.js": "/static/js/main.104d7db4.js",
+    "main.js": "/static/js/main.290537b3.js",
     "static/js/415.2f2f4431.chunk.js": "/static/js/415.2f2f4431.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -812,11 +812,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.c5d04a6a.css.map": "/static/css/main.c5d04a6a.css.map",
-    "main.104d7db4.js.map": "/static/js/main.104d7db4.js.map",
+    "main.290537b3.js.map": "/static/js/main.290537b3.js.map",
     "415.2f2f4431.chunk.js.map": "/static/js/415.2f2f4431.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d04a6a.css",
-    "static/js/main.104d7db4.js"
+    "static/js/main.290537b3.js"
   ]
 }
