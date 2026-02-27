@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5d04a6a.css",
-    "main.js": "/static/js/main.57d11b29.js",
+    "main.js": "/static/js/main.d80f2156.js",
     "static/js/415.360b06b4.chunk.js": "/static/js/415.360b06b4.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -221,6 +221,7 @@
     "static/media/navigation-rail-labels.png": "/static/media/navigation-rail-labels.725171b3b32151d79f32.png",
     "static/media/spec-pagination.png": "/static/media/spec-pagination.120f0c457a9500000e99.png",
     "static/media/list-color-correct.png": "/static/media/list-color-correct.274e42aed62bca36888d.png",
+    "static/media/powerBI.png": "/static/media/powerBI.b99bed10e082d2e973e1.png",
     "static/media/dropdown-toolbar-variations-2.png": "/static/media/dropdown-toolbar-variations-2.97ac25d6c52cb946b772.png",
     "static/media/list-color-incorrect.png": "/static/media/list-color-incorrect.71d76254fa9a96557436.png",
     "static/media/icon-lib-image.png": "/static/media/icon-lib-image.3f0c44168950bf5c004d.png",
@@ -806,11 +807,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.c5d04a6a.css.map": "/static/css/main.c5d04a6a.css.map",
-    "main.57d11b29.js.map": "/static/js/main.57d11b29.js.map",
+    "main.d80f2156.js.map": "/static/js/main.d80f2156.js.map",
     "415.360b06b4.chunk.js.map": "/static/js/415.360b06b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d04a6a.css",
-    "static/js/main.57d11b29.js"
+    "static/js/main.d80f2156.js"
   ]
 }
