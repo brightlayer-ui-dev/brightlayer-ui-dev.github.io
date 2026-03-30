@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5d04a6a.css",
-    "main.js": "/static/js/main.82290776.js",
+    "main.js": "/static/js/main.7c211ed6.js",
     "static/js/415.360b06b4.chunk.js": "/static/js/415.360b06b4.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -170,6 +170,7 @@
     "static/media/expired.png": "/static/media/expired.fbe613af92fc79d72373.png",
     "static/media/illustration-consumer.png": "/static/media/illustration-consumer.9e7b610a5d446d0c93b5.png",
     "static/media/verbiage-neutral.png": "/static/media/verbiage-neutral.a7e5c2a7365a1bd5efd0.png",
+    "static/media/progress-icons.png": "/static/media/progress-icons.2c30e9d98730d5a1d6f1.png",
     "static/media/overline.png": "/static/media/overline.8436836762cbe8f51038.png",
     "static/media/long-form.png": "/static/media/long-form.bc3c9b9fee50faa19c38.png",
     "static/media/avatar-variants.png": "/static/media/avatar-variants.525d0ae1dae6379feca2.png",
@@ -807,11 +808,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.c5d04a6a.css.map": "/static/css/main.c5d04a6a.css.map",
-    "main.82290776.js.map": "/static/js/main.82290776.js.map",
+    "main.7c211ed6.js.map": "/static/js/main.7c211ed6.js.map",
     "415.360b06b4.chunk.js.map": "/static/js/415.360b06b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d04a6a.css",
-    "static/js/main.82290776.js"
+    "static/js/main.7c211ed6.js"
   ]
 }
