@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f0b42c11.css",
-    "main.js": "/static/js/main.05668798.js",
+    "main.js": "/static/js/main.a5b6f06e.js",
     "static/js/415.ef37301a.chunk.js": "/static/js/415.ef37301a.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -168,7 +168,6 @@
     "static/media/crowded-user-menu.png": "/static/media/crowded-user-menu.e8360196905243f6d290.png",
     "static/media/dashboard-list.png": "/static/media/dashboard-list.468a18aff65915401516.png",
     "static/media/expired.png": "/static/media/expired.fbe613af92fc79d72373.png",
-    "static/media/editable-table.png": "/static/media/editable-table.026a706950230d35d892.png",
     "static/media/illustration-consumer.png": "/static/media/illustration-consumer.9e7b610a5d446d0c93b5.png",
     "static/media/verbiage-neutral.png": "/static/media/verbiage-neutral.a7e5c2a7365a1bd5efd0.png",
     "static/media/progress-icons.png": "/static/media/progress-icons.2c30e9d98730d5a1d6f1.png",
@@ -815,11 +814,11 @@
     "static/media/codeicon.svg": "/static/media/codeicon.ac7596dd5bf8aca531b54f108f0ce533.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.f0b42c11.css.map": "/static/css/main.f0b42c11.css.map",
-    "main.05668798.js.map": "/static/js/main.05668798.js.map",
+    "main.a5b6f06e.js.map": "/static/js/main.a5b6f06e.js.map",
     "415.ef37301a.chunk.js.map": "/static/js/415.ef37301a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0b42c11.css",
-    "static/js/main.05668798.js"
+    "static/js/main.a5b6f06e.js"
   ]
 }
