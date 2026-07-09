@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f0b42c11.css",
-    "main.js": "/static/js/main.d49b7930.js",
+    "main.js": "/static/js/main.db4f73b9.js",
     "static/js/415.ef37301a.chunk.js": "/static/js/415.ef37301a.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -303,6 +303,7 @@
     "static/media/horizontal-scroll-bar.png": "/static/media/horizontal-scroll-bar.2d5199ae93695e33294b.png",
     "static/media/multi-tag-tag-shifting-do.png": "/static/media/multi-tag-tag-shifting-do.156be9a4a55d4c3ad6fb.png",
     "static/media/multi-tag-tag-shifting-dont.png": "/static/media/multi-tag-tag-shifting-dont.189fffdb896deb21b969.png",
+    "static/media/data-relationships-2.png": "/static/media/data-relationships-2.7ac5857514dcd32473ed.png",
     "static/media/error-states-2.png": "/static/media/error-states-2.19df12961b3d542369b3.png",
     "static/media/emphasis-same-style-2.png": "/static/media/emphasis-same-style-2.b9f3a5fb939b611ee4b6.png",
     "static/media/error-states-1.png": "/static/media/error-states-1.9063c979551c5991f0f5.png",
@@ -506,7 +507,6 @@
     "static/media/open-sans-latin-600-italic.woff": "/static/media/open-sans-latin-600-italic.f34bf8cc135d6fd34b0c.woff",
     "static/media/column-order-1.png": "/static/media/column-order-1.0f6d3f0792d4d5a9f8b1.png",
     "static/media/open-sans-math-700-normal.woff": "/static/media/open-sans-math-700-normal.60eb4bf10ac478238920.woff",
-    "static/media/data-relationships-2.png": "/static/media/data-relationships-2.0fc44944b08086834df2.png",
     "static/media/mini-search.png": "/static/media/mini-search.d282730f2a56835471ea.png",
     "static/media/open-sans-latin-800-italic.woff": "/static/media/open-sans-latin-800-italic.39cb261902bcfe953dea.woff",
     "static/media/open-sans-cyrillic-ext-300-italic.woff": "/static/media/open-sans-cyrillic-ext-300-italic.5d31421d387f92ffc3eb.woff",
@@ -559,8 +559,8 @@
     "static/media/open-sans-latin-ext-800-normal.woff2": "/static/media/open-sans-latin-ext-800-normal.614919f1ccb7c33a633b.woff2",
     "static/media/open-sans-latin-ext-300-normal.woff2": "/static/media/open-sans-latin-ext-300-normal.ee89308fb9190c85ecba.woff2",
     "static/media/open-sans-cyrillic-ext-700-normal.woff": "/static/media/open-sans-cyrillic-ext-700-normal.7ac62c518f013ce5172f.woff",
-    "static/media/related-pie.png": "/static/media/related-pie.a5d415a4847a88a35c3a.png",
     "static/media/open-sans-cyrillic-ext-800-normal.woff": "/static/media/open-sans-cyrillic-ext-800-normal.8563bb4c7f80f1b19cd2.woff",
+    "static/media/related-pie.png": "/static/media/related-pie.a8e7b732361da8760fc5.png",
     "static/media/open-sans-latin-ext-700-normal.woff2": "/static/media/open-sans-latin-ext-700-normal.ac430f808999f2b45a4c.woff2",
     "static/media/arshdeep-singh.jpg": "/static/media/arshdeep-singh.63f74a3ea10c6d17a598.jpg",
     "static/media/open-sans-latin-ext-300-italic.woff": "/static/media/open-sans-latin-ext-300-italic.b03023475163b9bf47fb.woff",
@@ -648,6 +648,7 @@
     "static/media/emphasis-unnoticed-2.png": "/static/media/emphasis-unnoticed-2.3420be1b1b615469d864.png",
     "static/media/open-sans-symbols-700-normal.woff2": "/static/media/open-sans-symbols-700-normal.40fd13aaacecd11c2e0a.woff2",
     "static/media/open-sans-cyrillic-700-italic.woff": "/static/media/open-sans-cyrillic-700-italic.4bc0e31ff552a2576aae.woff",
+    "static/media/related-gauge.png": "/static/media/related-gauge.3c2ac7b85c2d44c4fb06.png",
     "static/media/spec-regular-1.svg": "/static/media/spec-regular-1.e480673e628adcc88b9c2b48dc6db1bc.svg",
     "static/media/open-sans-cyrillic-800-italic.woff": "/static/media/open-sans-cyrillic-800-italic.72634796d48e6c905a8f.woff",
     "static/media/variation-button.png": "/static/media/variation-button.7f80b67c2edc81c3c87c.png",
@@ -827,11 +828,11 @@
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.f0b42c11.css.map": "/static/css/main.f0b42c11.css.map",
-    "main.d49b7930.js.map": "/static/js/main.d49b7930.js.map",
+    "main.db4f73b9.js.map": "/static/js/main.db4f73b9.js.map",
     "415.ef37301a.chunk.js.map": "/static/js/415.ef37301a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0b42c11.css",
-    "static/js/main.d49b7930.js"
+    "static/js/main.db4f73b9.js"
   ]
 }
