@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f0b42c11.css",
-    "main.js": "/static/js/main.36aa186e.js",
+    "main.js": "/static/js/main.3da11601.js",
     "static/js/415.ef37301a.chunk.js": "/static/js/415.ef37301a.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -34,6 +34,7 @@
     "static/media/invite-to-landscape-countdown.gif": "/static/media/invite-to-landscape-countdown.44f5cc4b9237be8129b3.gif",
     "static/media/diwali-banner.jpg": "/static/media/diwali-banner.de1259064233e7029716.jpg",
     "static/media/addition-animation.gif": "/static/media/addition-animation.7f6c7ff114c9fe10a4b3.gif",
+    "static/media/transparent-app-bar-usage.jpg": "/static/media/transparent-app-bar-usage.e55881d0aed104275f0a.jpg",
     "static/media/advanced-table-filter.gif": "/static/media/advanced-table-filter.82e72ddf87a8744ade2b.gif",
     "static/media/skeleton.gif": "/static/media/skeleton.5444edd9c06da41f084e.gif",
     "static/media/table-stacked-as-list.gif": "/static/media/table-stacked-as-list.2529a457a1e4f3578133.gif",
@@ -209,6 +210,7 @@
     "static/media/dont-distract.png": "/static/media/dont-distract.30bd32cf3e6c85824862.png",
     "static/media/fab-mobile-1.png": "/static/media/fab-mobile-1.67074d263416ce3ec1a3.png",
     "static/media/in-alarms.png": "/static/media/in-alarms.01d1f20424347860ce03.png",
+    "static/media/transparent-app-bar-variants.png": "/static/media/transparent-app-bar-variants.57c4805d3756a46ba6a5.png",
     "static/media/enter-email-address.png": "/static/media/enter-email-address.2a55a85cf3f240b73d96.png",
     "static/media/additional-report.png": "/static/media/additional-report.11ec2fcbfe26c73069b7.png",
     "static/media/account-settings-page.png": "/static/media/account-settings-page.adba38914217fd3a51a4.png",
@@ -361,6 +363,7 @@
     "static/media/specs-3.png": "/static/media/specs-3.dc487fe7b1554d30f896.png",
     "static/media/multi-tag-wrap.png": "/static/media/multi-tag-wrap.5b8c082c63f3357205d4.png",
     "static/media/subtitle-variations.png": "/static/media/subtitle-variations.3870d60a99fa22f08470.png",
+    "static/media/transparent-app-bar-overlay.png": "/static/media/transparent-app-bar-overlay.ecff0607e474589c0e4b.png",
     "static/media/toggle-text.png": "/static/media/toggle-text.96bf92bf5968d4b4132b.png",
     "static/media/toggle-icon.png": "/static/media/toggle-icon.33d8f2e1596c8c398352.png",
     "static/media/castles.svg": "/static/media/castles.30765c0e269b2a6cb79b302a2d3a8a3c.svg",
@@ -828,11 +831,11 @@
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.f0b42c11.css.map": "/static/css/main.f0b42c11.css.map",
-    "main.36aa186e.js.map": "/static/js/main.36aa186e.js.map",
+    "main.3da11601.js.map": "/static/js/main.3da11601.js.map",
     "415.ef37301a.chunk.js.map": "/static/js/415.ef37301a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0b42c11.css",
-    "static/js/main.36aa186e.js"
+    "static/js/main.3da11601.js"
   ]
 }
