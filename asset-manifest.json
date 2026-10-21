@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f0b42c11.css",
-    "main.js": "/static/js/main.613407a3.js",
+    "main.js": "/static/js/main.4acf38d6.js",
     "static/js/415.ef37301a.chunk.js": "/static/js/415.ef37301a.chunk.js",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.3e5d5739d31fbf377740.gif",
     "static/media/independence-day-bg.png": "/static/media/independence-day-bg.c13e0939d12fa883fad3.png",
@@ -341,6 +341,7 @@
     "static/media/spec-size.png": "/static/media/spec-size.9dd96ea0b440739868a1.png",
     "static/media/icon-align-3.png": "/static/media/icon-align-3.1f6f58ce1accb296778c.png",
     "static/media/page-body-table.png": "/static/media/page-body-table.c74c007e577da6ed6c4d.png",
+    "static/media/keith_hartman.png": "/static/media/keith_hartman.2cc230c858ae24ac32c3.png",
     "static/media/button-width.png": "/static/media/button-width.56a80019c182fd7ba085.png",
     "static/media/green-motion-ev-charger.jpg": "/static/media/green-motion-ev-charger.dfdb2197fc9ea497958e.jpg",
     "static/media/educational-2.png": "/static/media/educational-2.c49421973e59229c2ada.png",
@@ -351,6 +352,7 @@
     "static/media/navigation-tabs-specs.png": "/static/media/navigation-tabs-specs.02184ff3bbf8f0341710.png",
     "static/media/table-cell-underlined-field.png": "/static/media/table-cell-underlined-field.97ff1a94a7dba74f7459.png",
     "static/media/error-states-3.png": "/static/media/error-states-3.d1527133c47341bf0b63.png",
+    "static/media/damini_sheth.png": "/static/media/damini_sheth.e54fd7091d037c8f3200.png",
     "static/media/good-tag.png": "/static/media/good-tag.ae08b0a21f49a53756fb.png",
     "static/media/place-cancel.png": "/static/media/place-cancel.60359aa1d98675c00e3c.png",
     "static/media/polish-glyph-1.png": "/static/media/polish-glyph-1.6bda291963554ab4592a.png",
@@ -834,11 +836,11 @@
     "static/media/warning-two-color-dark.svg": "/static/media/warning-two-color-dark.b1b1ee9cc2a33b4027ed548ba280f1c9.svg",
     "static/media/developicon.svg": "/static/media/developicon.fc5a779dd79d0acb5e82a50c2c901b40.svg",
     "main.f0b42c11.css.map": "/static/css/main.f0b42c11.css.map",
-    "main.613407a3.js.map": "/static/js/main.613407a3.js.map",
+    "main.4acf38d6.js.map": "/static/js/main.4acf38d6.js.map",
     "415.ef37301a.chunk.js.map": "/static/js/415.ef37301a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0b42c11.css",
-    "static/js/main.613407a3.js"
+    "static/js/main.4acf38d6.js"
   ]
 }
